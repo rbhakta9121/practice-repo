@@ -1,27 +1,30 @@
-## First Name Last Name
+## Rishi Bhakta
 
-### Term Year 
+### Spring 2022
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Microeconomics
 
-- Course 3
+- Computational Linear Algebra
 
-- Course 4
+- Art Appreciation
+
+- Cloud Infrastructure and Services
+
+- Discrete Mathematics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Sports
 
-- Thing 2
+- Movies
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/24
