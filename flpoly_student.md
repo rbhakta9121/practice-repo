@@ -20,9 +20,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Sports
+- Sports (Football, )
 
 - Movies
+
+- Christmas
 
 
 ***
