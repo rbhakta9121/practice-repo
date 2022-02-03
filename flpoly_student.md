@@ -29,7 +29,7 @@ I am _passionate about_:
 # Images
 
 Here's a screenshot of our Git Repo from Homework 1:
-![HW1](/cloud/project/images/Git_repo_HW1_screenshot.jpg)
+![HW1](https://4db6480b1ef64cab8ded6be59b3c98c2.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2Fimages%2FGit_repo_HW1_screenshot.jpg)
 
 # Tables
 
