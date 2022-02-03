@@ -28,8 +28,8 @@ I am _passionate about_:
 
 # Images
 
-Here's an image of the Florida Poly IST:
-![IST](https://floridapoly.edu/news/articles/2021/06/assets/060821-applicationsincrease.jpg)
+Here's a screenshot of our Git Repo from Homework 1:
+![HW1](/cloud/project/images/Git_repo_HW1_screenshot.jpg)
 
 # Tables
 
